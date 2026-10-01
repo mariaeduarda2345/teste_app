@@ -1,0 +1,6 @@
+{
+  "name": "Líria - Estante & Diário Literário",
+  "description": "Rede e estante literária elegante para acompanhar leituras, metas anuais, resenhas e conexões literárias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
